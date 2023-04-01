@@ -23,6 +23,7 @@
 		CEE5901529D56087003368D8 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE5901429D56087003368D8 /* OnboardingView.swift */; };
 		CF475B5529D7274F00CEF772 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF475B5429D7274F00CEF772 /* SettingsView.swift */; };
 		CF475B5729D72C1700CEF772 /* SettingsLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF475B5629D72C1700CEF772 /* SettingsLabelView.swift */; };
+		CFB90ED829D7FD75007D362A /* SettingsRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFB90ED729D7FD75007D362A /* SettingsRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		CEE5901429D56087003368D8 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		CF475B5429D7274F00CEF772 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		CF475B5629D72C1700CEF772 /* SettingsLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsLabelView.swift; sourceTree = "<group>"; };
+		CFB90ED729D7FD75007D362A /* SettingsRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 				CEDE537A29D6AD8A005DF1B5 /* SourceLinkView.swift */,
 				CEA4E1A329D6C7BF004C0499 /* FruitNutrientsView.swift */,
 				CF475B5629D72C1700CEF772 /* SettingsLabelView.swift */,
+				CFB90ED729D7FD75007D362A /* SettingsRowView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 			files = (
 				CEDE537329D685F6005DF1B5 /* FruitData.swift in Sources */,
 				CEDE537B29D6AD8A005DF1B5 /* SourceLinkView.swift in Sources */,
+				CFB90ED829D7FD75007D362A /* SettingsRowView.swift in Sources */,
 				CEE5901129D5574C003368D8 /* FruitsCardView.swift in Sources */,
 				CEDE537529D6924A005DF1B5 /* FruitRowView.swift in Sources */,
 				CEA4E1A429D6C7BF004C0499 /* FruitNutrientsView.swift in Sources */,
